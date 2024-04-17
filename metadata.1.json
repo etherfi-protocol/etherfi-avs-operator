@@ -1,7 +1,7 @@
 {
-  "name": "ether.fi-1",
-  "website": "https://ether.fi",
-  "description": "Seamless Staking Effortless Earnings",
-  "logo": "https://raw.githubusercontent.com/etherfi-protocol/etherfi-avs-operator/master/logo.png",
-  "twitter": "https://x.com/ether_fi"
+  "name": "Ether.fi-1 <> Pier Two",
+  "website": "http://piertwo.com/",
+  "description": "Australian based enterprise grade infrastructure for institutional clients. Non custodial ETH Staking. Secure Node and Validation Services. Creating the light client Lantern (C Sharp).Made in Australia.",
+  "logo": "https://raw.githubusercontent.com/Pier-Two/eigenlayer/main/etherfi_1_pier_two.png",
+  "twitter": "https://twitter.com/piertwo_com"
 }
