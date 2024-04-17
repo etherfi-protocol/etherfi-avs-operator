@@ -1,7 +1,7 @@
 {
-  "name": "ether.fi-3",
+  "name": "ether.fi-3 <> DSRV",
   "website": "https://ether.fi",
-  "description": "Seamless Staking Effortless Earnings",
-  "logo": "https://raw.githubusercontent.com/etherfi-protocol/etherfi-avs-operator/master/logo.png",
+  "description": "Seamless Staking Effortless Earnings, Operated by DSRV. Distributed Served. https://dsrvlabs.com",
+  "logo": "https://raw.githubusercontent.com/etherfi-protocol/etherfi-avs-operator/master/3_etherfi_dsrv.png",
   "twitter": "https://x.com/ether_fi"
 }
