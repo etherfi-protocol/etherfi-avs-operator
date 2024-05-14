@@ -1,7 +1,7 @@
 {
   "name": "ether.fi-7 - Chainnodes",
-  "website": "https://www.chainnodes.org/",
-  "description": "Chainnodes EigenLayer - The best restaking operator in the world. Chainnodes is an RPC provider and a validator as a service for enterprise stakers, individuals and liquid staking protocols. We commit to integrate with as many AVSs as possible!",
+  "website": "https://ether.fi",
+  "description": "Seamless Staking Effortless Earnings, Operated by Chainnodes. Chainnodes is an RPC provider and a validator as a service for enterprise stakers, individuals and liquid staking protocols. We commit to integrate with as many AVSs as possible! Chainnodes EigenLayer - The best restaking operator in the world. Website: https://www.chainnodes.org/ Twitter: https://x.com/chainnodes",
   "logo": "https://raw.githubusercontent.com/etherfi-protocol/etherfi-avs-operator/master/7_etherfi_chainnodes.png",
-  "twitter": "https://x.com/chainnodes"
+  "twitter": "https://x.com/ether_fi"
 }
