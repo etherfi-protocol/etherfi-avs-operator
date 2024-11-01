@@ -1,7 +1,7 @@
 {
-  "name": "ether.fi-12",
+  "name": "ether.fi-12 - Allnodes",
   "website": "https://ether.fi",
-  "description": "Seamless Staking Effortless Earnings",
-  "logo": "https://raw.githubusercontent.com/etherfi-protocol/etherfi-avs-operator/master/logo.png",
+  "description": "Seamless Staking Effortless Earnings, Operated by Allnodes. Leading non-custodial hosting & staking platform for retail & institutional clients & infrastructure provider for protocols & developers with full or archive nodes, RPC endpoints, & snapshot services for over 90+ blockchains",
+  "logo": "https://raw.githubusercontent.com/etherfi-protocol/etherfi-avs-operator/master/12_etherfi_allnodes.png",
   "twitter": "https://x.com/ether_fi"
 }
